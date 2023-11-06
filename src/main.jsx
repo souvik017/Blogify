@@ -10,9 +10,9 @@ import Login from './commponents/Login.jsx'
 import AuthLayout from "./commponents/AuthLayout.jsx"
 
 // import AddPost from "./pages/AddPost"
-import AddPost from './pages/Addpost.jsx'
-import Signup from './pages/Signup'
-import EditPost from "./pages/EditPost"
+import AddPost from './pages/AddPost.jsx'
+import Signup from './pages/signUp.jsx'
+import EditPost from "./pages/EditPost.jsx"
 
 import Post from "./pages/Post";
 
